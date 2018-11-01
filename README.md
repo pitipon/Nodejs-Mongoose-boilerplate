@@ -7,5 +7,5 @@
 `node server/server.js`
 
 ### Test with Postman
-POST localhost:3000/todos
-body: { text: 'work on nodejs' }
+`POST localhost:3000/todos`
+`body: { text: 'work on nodejs' }`
